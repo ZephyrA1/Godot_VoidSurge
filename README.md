@@ -2,10 +2,6 @@
 
 A top-down arena survival roguelite built in Godot 4.6.2. Survive 10 waves of enemies, manage your weapon's heat, and choose upgrades to build your perfect run.
 
-## GitHub Repository
-
-[View the GitHub repository here](https://github.com/ZephyrA1/CSCI4160_VoidSurge.git).
-
 ## Demo Video
 
 [Watch the video essay on YouTube (unlisted)](https://youtu.be/zemfBS0gRrw)
