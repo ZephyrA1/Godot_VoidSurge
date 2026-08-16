@@ -1,0 +1,13 @@
+res://scenes/enemies/chaser_enemy.tscn::65220641cc65f1b4dfde6d90c4ac6662::1775703781::res://.godot/exported/133200997/export-a397e5c9cd357edf58b29132c154913e-chaser_enemy.scn
+res://scenes/enemies/dasher_enemy.tscn::a28ab71d6b67edf394ced1ebcef83e2c::1775703792::res://.godot/exported/133200997/export-1d6beedae0a04d634013042b3d2e2d75-dasher_enemy.scn
+res://scenes/enemies/shooter_enemy.tscn::173b4642f1e1e4b56111298571db21d6::1775703786::res://.godot/exported/133200997/export-4f3dfc527607013dfe4052dc6f6e54ed-shooter_enemy.scn
+res://scenes/projectiles/enemy_bullet.tscn::6e4f099c238c5f1322985029984e7970::1775704072::res://.godot/exported/133200997/export-4668313e20a21bce6138d9774a28e44a-enemy_bullet.scn
+res://scenes/projectiles/player_bullet.tscn::ad350008c1989f10518128f71d64f37b::1775703772::res://.godot/exported/133200997/export-77afdf4cac3652fd345dc8a00cea28ce-player_bullet.scn
+res://scenes/game.tscn::0879fd68fec82268d7806c2feed37c05::1775703881::res://.godot/exported/133200997/export-c2a7af834e91ff64325daddf58e45dc0-game.scn
+res://scenes/game_over_screen.tscn::4cda0053e9b677ecd25b792a1f75864f::1775703852::res://.godot/exported/133200997/export-e22825d93e7ddd42eb50ee3deead56b6-game_over_screen.scn
+res://scenes/hud.tscn::b2015f19cb7dec957d23563a664f1ed1::1775703812::res://.godot/exported/133200997/export-38bf74ff262409a94a41206b2b776d33-hud.scn
+res://scenes/main_menu.tscn::77b803e276c3c7ffededdb89a6a86791::1775703824::res://.godot/exported/133200997/export-ea5c6ad4629af728dc514cefde332394-main_menu.scn
+res://scenes/pause_menu.tscn::8a573e14711874a6f4c2f9b45f59cd6c::1775703841::res://.godot/exported/133200997/export-ca2c2284eb591e72162d67219a0d2f87-pause_menu.scn
+res://scenes/player.tscn::a6da9fd7b165f6cf43f674b68449dac5::1775703766::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
+res://scenes/upgrade_panel.tscn::b8b7de4fa916a2d74e7eb4cd5ef5dcdf::1775703832::res://.godot/exported/133200997/export-46903059fc048cbcd2666772f0ffebe6-upgrade_panel.scn
+res://scenes/win_screen.tscn::28421571b7775d9542b85083fc042747::1775703863::res://.godot/exported/133200997/export-4446fc4d426ca974deeefccb08735c1c-win_screen.scn
